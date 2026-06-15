@@ -4,7 +4,6 @@ by Sidharth Praveen
 A Python-based Tic Tac Toe game controlled entirely through hand gestures via webcam.
 Play against an AI opponent in real time — no keyboard or mouse needed.
 
-────────────────────────────────────────────
  Features
 ────────────────────────────────────────────
 - Hand gesture controls using your webcam
